@@ -1,6 +1,6 @@
 
 /*******************************************************************************
- * Copyright (C) 2017 Advanced Micro Devices, Inc. All rights reserved. 
+ * Copyright (C) 2017 Haibo Hao. All rights reserved. 
  *******************************************************************************/
 /* ****************************************************************************
 * This betac_alphaab kernel string was generated on Thu Jun  8 17:16:08 2017
